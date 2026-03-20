@@ -1,0 +1,3 @@
+This is how my communication chat bot looks like....
+
+<img width="1364" height="589" alt="Image" src="https://github.com/user-attachments/assets/d667d318-3a53-4013-afd4-02f33cb430b7" />
